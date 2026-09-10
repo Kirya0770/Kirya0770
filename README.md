@@ -1,4 +1,4 @@
-# Hi there, I'm Kirill Gorchenev 👋
+# Hi there, I'm Kirill Gorchenev 
 ### Junior BI Analyst & Data Analyst
 
 Analytical professional with hands-on experience in building enterprise BI solutions, data marts, and dashboards. Experienced in querying large-scale data lakes (10+ TB) and optimizing complex analytical SQL pipelines.
