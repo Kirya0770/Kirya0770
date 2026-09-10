@@ -5,15 +5,15 @@ Analytical professional with hands-on experience in building enterprise BI solut
 
 ---
 
-### 🚀 About Me
-- 💼 Former **BI Analyst Intern at T-Bank** (Reporting Team): engineered datasets for 8 enterprise dashboards, built custom Apache Superset catalogs, and optimized queries on Trino/PostgreSQL with 3–5x performance gains.
-- 🎓 **B.Sc. in Applied Mathematics & Computer Science** at Novosibirsk State Technical University (NSTU, 2024–2028).
-- 🛠 **Focus areas:** Analytical SQL (recursive CTEs, window functions), Data Warehousing (DWH/DLH), BI visual design, and Python automation.
-- 📊 **Applied Statistics:** Monte Carlo simulations, Bayesian parameter estimation, and time-series modeling.
+###  About Me
+- Former **BI Analyst Intern at T-Bank** (Reporting Team): engineered datasets for 8 enterprise dashboards, built custom Apache Superset catalogs, and optimized queries on Trino/PostgreSQL with 3–5x performance gains.
+- **B.Sc. in Applied Mathematics & Computer Science** at Novosibirsk State Technical University (NSTU, 2024–2028).
+- **Focus areas:** Analytical SQL (recursive CTEs, window functions), Data Warehousing (DWH/DLH), BI visual design, and Python automation.
+- **Applied Statistics:** Monte Carlo simulations, Bayesian parameter estimation, and time-series modeling.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Data Querying & DWH / DLH:**
 ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -33,25 +33,25 @@ Analytical professional with hands-on experience in building enterprise BI solut
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 * **[optimal-order-quantity-research](https://github.com/Kirya0770/optimal-order-quantity-research)**  
   Applied research and numerical simulation on inventory control models (EOQ / Wilson formula, stationary demand, SARIMA, safety stock).  
   *Stack:* Python, NumPy, Bayesian parameter estimation, Monte Carlo method.
 
-* **Landscape Plant Selection Bot**  
+* **[landscape-plant-selection-bot](https://github.com/Kirya0770/landscape-plant-selection-bot)**  
   A rule-based and data-driven Telegram bot for selecting landscaping plants depending on soil type, sunlight levels, and regional climate conditions.  
   *Stack:* Python, Pandas, Telebot, REST API.
 
 ---
 
-### 📈 Work Highlights (T-Bank Internship)
+### Work Highlights (T-Bank Internship)
 - **Data Marts & Dashboards:** Created datasets and built 4 Superset dashboards (including 2 reusable chart catalogs adopted across teams).
 - **Migration & Optimization:** Migrated heavy queries from PostgreSQL to Trino on a 10+ TB lakehouse, rewriting dialect-specific functions and accelerating execution times by 3–5x.
 - **Automation:** Developed Python ETL scripts connecting internal APIs, ClickHouse, and Excel to automate routine reporting workflows.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 - **Telegram:** [@kirillgorch1337](https://t.me/kirillgorch1337)
-- **Email:** [kirill.gorchenev@gmail.com](mailto:kirill.gorchenev@gmail.com)
+- **Email:** [pm44.gorchenev@gmail.com](mailto:pm44.gorchenev@gmail.com)
