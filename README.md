@@ -54,4 +54,6 @@ Analytical professional with hands-on experience in building enterprise BI solut
 
 ### Connect with Me
 - **Telegram:** [@kirillgorch1337](https://t.me/kirillgorch1337)
-- **Email:** [pm44.gorchenev@gmail.com](mailto:pm44.gorchenev@gmail.com)
+- **HeadHunter:** [hh.ru/resume/Kirill_Gorchenev](https://hh.ru/resume/c843eab9ff10664f210039ed1f39497a6f465a)
+- **Email:** [kirill.gorchenev@gmail.com](mailto:kirill.gorchenev@gmail.com)
+
