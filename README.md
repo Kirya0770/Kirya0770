@@ -50,4 +50,4 @@ Data / BI Analyst. Студент факультета прикладной ма
 
 * Telegram: [@kirillgorch1337](https://t.me/kirillgorch1337)
 * Резюме: [hh.ru/resume](https://hh.ru/resume/c843eab9ff10664f210039ed1f39497a6f465a)
-* Email: kirill.gorchenev@gmail.com
+* Email: pm44.gorchenev@gmail.com
