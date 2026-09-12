@@ -2,47 +2,52 @@
 
 Data / BI Analyst. Студент факультета прикладной математики и информатики НГТУ (2024–2028).
 
-Занимаюсь проектированием витрин данных, аналитическим SQL и математическим моделированием. До этого стажировался в команде отчетности Т-Банка: переводил тяжелые аналитические запросы с PostgreSQL на Trino (data lake 10+ TB), собирал дашборды в Apache Superset и автоматизировал рутинные выгрузки на Python.
+Занимаюсь проектированием аналитических витрин, оптимизацией SQL-запросов и математическим моделированием. Летом 2026 года проходил стажировку в команде отчетности Т-Банка: переводил ресурсоемкие запросы с PostgreSQL на Trino (data lake 10+ TB), собирал дашборды в Apache Superset и писал скрипты автоматизации на Python.
 
 ---
 
 ### Стек технологий
 
-**Данные и DWH:**
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20|%20Trino%20|%20ClickHouse-316192?style=flat-square)
-![DWH](https://img.shields.io/badge/Lakehouse-SparkSQL%20|%20ETL-E25A1C?style=flat-square)
+**Данные и DWH / DLH:**
+![SQL](https://img.shields.io/badge/SQL-Advanced-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/SparkSQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 **BI и визуализация:**
-![BI](https://img.shields.io/badge/BI-Apache%20Superset%20|%20Apache%20ECharts-295C7A?style=flat-square)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-295C7A?style=flat-square&logo=apache-superset&logoColor=white)
+![ECharts](https://img.shields.io/badge/Apache_ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
 
-**Python и DS:**
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square)
-![Data](https://img.shields.io/badge/Data-Pandas%20|%20NumPy%20|%20Monte%20Carlo-150458?style=flat-square)
+**Разработка и Data Science:**
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
 ### Проекты
 
 * **[optimal-order-quantity-research](https://github.com/Kirya0770/optimal-order-quantity-research)**  
-  Исследование и симуляция адаптивных политик управления запасами. Сравнение классической формулы Вильсона (EOQ), стохастической интервальной модели и связки SAR(1) + байесовское оценивание + фильтр Калмана.
+  Исследование стратегий пополнения запасов на горизонте 180 суток. Содержит сравнительный анализ формулы Вильсона (EOQ), интервальной модели и связки авторегрессии $SAR(1)_7$ с байесовским оцениванием и одномерным фильтром Калмана.  
   *Стек:* Python, NumPy, Matplotlib.
 
 * **[landscape-plant-selection-bot](https://github.com/Kirya0770/landscape-plant-selection-bot)**  
-  Telegram-бот для подбора декоративных растений по каталогу ландшафтного бюро (270+ позиций). Фильтрация по грунту, свету, влажности и климату с пагинацией и кэшированием в памяти.
+  Telegram-бот для подбора декоративных растений по каталогу питомника (270+ видов). Реализована фильтрация по грунту, свету, влажности и климату с пагинацией и хранением базы в оперативной памяти.  
   *Стек:* Python, aiogram 3, pandas.
 
 ---
 
 ### Опыт (стажировка в Т-Банке)
 
-* Спроектировал наборы данных и собрал 4 аналитических дашборда в Apache Superset (включая 2 универсальных каталога чартов, переиспользованных соседними командами).
-* Оптимизировал ресурсоемкие запросы в data lake (10+ TB): миграция диалекта с PostgreSQL на Trino ускорила выполнение в 3–5 раз.
-* Написал скрипты автоматизации на Python: сбор данных через внутренние API, загрузка в ClickHouse и автогенерация отчетов.
+* Спроектировал наборы данных и собрал 4 дашборда в Apache Superset, включая 2 витрины с чартами для смежных аналитических команд.
+* Оптимизировал аналитические запросы к озеру данных (10+ TB): миграция синтаксиса с PostgreSQL на Trino сократила время расчета выборок в 3–5 раз.
+* Написал скрипты на Python для выгрузки метрик через внутренние API и их регулярного сохранения в ClickHouse.
 
 ---
 
 ### Контакты
 
 * Telegram: [@kirillgorch1337](https://t.me/kirillgorch1337)
-* HeadHunter: [hh.ru/resume](https://hh.ru/resume/c843eab9ff10664f210039ed1f39497a6f465a)
+* Резюме: [hh.ru/resume](https://hh.ru/resume/c843eab9ff10664f210039ed1f39497a6f465a)
 * Email: kirill.gorchenev@gmail.com
